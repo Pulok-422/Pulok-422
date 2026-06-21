@@ -1,4 +1,3 @@
-```md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,50:0F766E,100:2563EB&text=Hasibul%20Ahmed%20Pulok&fontColor=FFFFFF&fontSize=40&fontAlignY=35&desc=Climate-Health%20Data%20Analyst%20%7C%20GIS%20%26%20Remote%20Sensing%20%7C%20Dashboard%20Developer&descSize=16&descAlignY=58" width="100%" alt="Hasibul Ahmed Pulok GitHub Profile Header" />
 </p>
@@ -115,4 +114,3 @@ I work at the intersection of **GIS**, **remote sensing**, **public health analy
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:2563EB,50:0F766E,100:0F172A" width="100%" alt="Footer" />
 </p>
-```
